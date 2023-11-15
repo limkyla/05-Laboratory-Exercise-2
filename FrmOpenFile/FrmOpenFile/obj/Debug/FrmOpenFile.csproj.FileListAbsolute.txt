@@ -1,0 +1,13 @@
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe.config
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.exe
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\bin\Debug\FrmOpenFile.pdb
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.AssemblyReference.cache
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.Form1.resources
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.Properties.Resources.resources
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.GenerateResource.cache
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.csproj.CoreCompileInputs.cache
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.exe
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.pdb
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmLab1.FrmRegistration.resources
+C:\Users\arquio.245846\source\repos\FrmOpenFile\FrmOpenFile\obj\Debug\FrmOpenFile.FrmStudentRecord.resources
